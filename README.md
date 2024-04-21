@@ -276,7 +276,7 @@ endmodule
 # UPDOWN COUNTER:
 ![image](https://github.com/Pavithra-040404/VLSI-LAB-EXP-4/assets/161431611/43b30f21-1221-4b26-92c2-f13f863e7745)
 # MOD 10 COUNTER:
-![image](https://github.com/Pavithra-040404/VLSI-LAB-EXP-4/assets/161431611/3be71a5c-c07f-4229-86c5-fb15cfd5394d)
+![image](https://github.com/Pavithra-040404/VLSI-LAB-EXP-4/assets/161431611/88f790f0-ee16-48be-9d11-02e355e48313)
 # RIPPLE CARRY COUNTER:
 ![image](https://github.com/Pavithra-040404/VLSI-LAB-EXP-4/assets/161431611/782a28b5-7d05-4ee3-bd95-54d58055e2b9)
 
