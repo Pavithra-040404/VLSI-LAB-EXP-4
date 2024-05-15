@@ -1,6 +1,6 @@
-# VLSI-LAB-EXP-4
+# EXP.NO:04
+# DATE:02/04/2024
 # SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
-
 # AIM: 
 To simulate and synthesis JK-Flipflop, SR-Flipflop, T-Flipflop, D-Flipflop And counters using Vivado 2023.2
 # APPARATUS REQUIRED:
